@@ -39,4 +39,4 @@
     groups: docker
     append: yes
   become: yes
-  when: add_user_to_docker_group != ""
+  when: add_user_to_docker_group is not empty
