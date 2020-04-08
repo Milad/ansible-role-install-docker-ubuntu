@@ -1,0 +1,4 @@
+---
+
+# A username to be added to docker group so it can use docker command line without sudo.
+add_user_to_docker_group: ""
