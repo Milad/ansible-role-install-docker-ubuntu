@@ -13,6 +13,8 @@ galaxy_info:
   galaxy_tags:
     - digitalocean
     - docker
+    - python
+    - sdk
     - ubuntu
     - bionic
 
